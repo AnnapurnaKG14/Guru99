@@ -1,0 +1,14 @@
+{
+    "firstName" : "Ashwin",
+    "lastName" : "Nayak",
+    "phone" :"9876543255",
+    "userName" : "Ashwin",
+    "address1" : "HSR",
+    "city":"Mangalore",
+    "state":"Karnataka",
+    "postalCode":"5554455",
+    "country":"INDIA",
+    "email":"Ashwin@gmail.com",
+    "password":"abcdefghi",
+    "confirmPassword":"abcdefghi"
+}
